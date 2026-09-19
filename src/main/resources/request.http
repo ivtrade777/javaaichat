@@ -1,0 +1,7 @@
+### Chat request
+POST http://localhost:8080/api/chat
+Content-Type: application/json
+
+{
+  "message": "Hello, how are you?"
+}
